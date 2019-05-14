@@ -1,2 +1,2 @@
-# knowledge
+# Knowledge
 Revolgy Knowledge Base
